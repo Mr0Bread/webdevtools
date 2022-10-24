@@ -2,6 +2,8 @@
   "$schema": "./node_modules/nx/schemas/workspace-schema.json",
   "version": 2,
   "projects": {
+    "admin": "apps/admin",
+    "admin-e2e": "apps/admin-e2e",
     "fe": "apps/fe",
     "fe-e2e": "apps/fe-e2e"
   }
